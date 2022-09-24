@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wordle</string>
+    <string name="word_prompt">Enter 4 letter guess here</string>
+    <string name="guessWord">Guess</string>
+</resources>
