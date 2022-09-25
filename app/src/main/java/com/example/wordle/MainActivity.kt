@@ -6,7 +6,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-import com.example.wordle.FourLetterWordList.FourLetterWordList
+
 
 class MainActivity : AppCompatActivity() {
     lateinit var wordToGuess: String
